@@ -1,5 +1,10 @@
 # React + Vite
 
+
+
+- A timer application build using React
+![image](https://github.com/user-attachments/assets/6f3f25af-c484-4b46-a601-065e24e291d7)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
